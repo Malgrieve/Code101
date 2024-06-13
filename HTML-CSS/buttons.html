@@ -8,13 +8,86 @@ Code to design websites
 <!--                                                  CSS Basics                                                  -->
 
 <style>
-  button {
-    background-color: red;
-    color: whtie;
+  .subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+
+  .subscribe-button:hover {
+    opacity: 0.8; 
+  }
+
+  .subscribe-button:active {
+    opacity: 0.5;
+  }
+
+  .join-button {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-style: solid;
+    border-color: rgb(29, 13, 248);
+    color: rgb(29, 13, 248);
+    border-width: 1px;
+    border-radius: 2px;
+    height: 36px;
+    width: 62px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: backgroun-color 0.15s, color 0.15s;
+  }
+
+  .join-button:hover {
+    background-color: rgb(29, 13, 248);
+    color: rgb(255, 255, 255);
+  }
+
+  .join-button:active {
+    opacity: 0.7;
+  }
+
+  .tweet-button {
+    background-color: rgb(0, 111, 221);
+    border: none;
+    color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-radius: 20px;
+    height: 36px;
+    width: 78px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+  }
+
+  .tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+  }
+
+  .tweet-button:active {
+    opacity: 0.7;
   }
 </style>
 
-<button>SUBSCRIBE</button>
+<button class="subscribe-button">
+  SUBSCRIBE
+</button>
+
+
+<button class="join-button">
+  JOIN
+</button>
+
+<button class="tweet-button">
+  Tweet
+</button>
 
 <!-- 
 Syntax
@@ -30,6 +103,37 @@ Selector {
   Value - what we are changing the property to
   ; - ends the statement
 
+  - px = pixels
+
 Elements = Something that changes the webpage without physically adding something
-    <style></style> - Allows to edit the design of elements  
+  <style></style> - Allows to edit the design of elements 
+    
+Property = A property of an element that can be changed
+  Color - General (red) or Specific (rgb(100, 0, 32))
+    background-color - Background color
+    color - Text color
+  Shape:
+    height - How long an element is
+    width - How wide an element is
+  Border:
+    border - Border of element
+    border-radius - Radius of the border's corners
+    border-style - Border's style
+    border-color - Color of border
+    border-height - Length of border
+    border-width - Width of border
+    border-radius - Curvature of border corners
+  cursor - Change the cursor
+  
+  
+  margin-right - Space to the right of element
+  margin-left - Space to the left of element
+  font-weight - Thickness of element text
+  font-size - Size of element text 
+
+  ClassName:Psuedo-Class { 
+    Property
+  }
+
+  Psuedo-Class = Acts as a 
  -->
