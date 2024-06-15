@@ -1,0 +1,15 @@
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+A:\Blackstar Industries\KODA Systems\Projects\Code101\C#\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
