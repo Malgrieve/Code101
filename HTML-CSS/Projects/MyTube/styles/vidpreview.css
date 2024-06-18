@@ -1,17 +1,6 @@
-p {
-  font-family: Roboto, Arial;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
 .thumbnail {
   width: 100%;
 } 
-  
-.search-bar {
-  font-size: 10px;
-  display: block;
-}
 
 .video-title {
   margin-top: 0;
