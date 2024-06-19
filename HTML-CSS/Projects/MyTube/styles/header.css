@@ -5,6 +5,16 @@
   flex-direction: row;
   justify-content: space-between;
   margin-bottom: 10px;
+
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+
+  background-color: white;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(221, 221, 221);
 }
 
 .left-section {
