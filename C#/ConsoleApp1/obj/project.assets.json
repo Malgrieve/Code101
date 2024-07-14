@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\iamsa\\.nuget\\packages\\": {}
+    "C:\\Users\\theof\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "A:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\iamsa\\.nuget\\packages\\",
-      "outputPath": "A:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\obj\\",
+      "projectPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\theof\\.nuget\\packages\\",
+      "outputPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\iamsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\theof\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
