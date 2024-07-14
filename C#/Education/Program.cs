@@ -81,6 +81,30 @@ Console.WriteLine(phrase.Substring(10, 6)); // Grabs and prints out specific sta
 */ 
 
 // ------------------------------------------------------------------------ NUMBERS --------------------------------------------------------------------------
+
+/*
+Console.WriteLine(400.0550);
+Console.WriteLine(600 + 34);
+Console.WriteLine(600 - 34);
+Console.WriteLine(600 * 34);
+Console.WriteLine(600 / 34);
+Console.WriteLine(600 % 34);
+Console.WriteLine(23 + 600 * (5 - 2) / 34);
+
+int num = 6;
+num++;
+num--;
+Console.WriteLine(num);
+
+Console.WriteLine(Math.Abs(num)); // Absolute value
+Console.WriteLine(Math.Pow(num, 3)); // Power of
+Console.WriteLine(Math.Sqrt(36)); // Square root
+
+Console.WriteLine(Math.Max(40, 28)); // Maximum number
+Console.WriteLine(Math.Min(200,302)); // Minimum number
+Console.WriteLine(Math.Round(4.929)); // Round the input number
+*/
+
 // ----------------------------------------------------------------------- USER INPUT ------------------------------------------------------------------------
 // ------------------------------------------------------------------------ ARRAYS ---------------------------------------------------------------------------
 // ------------------------------------------------------------------------ METHODS --------------------------------------------------------------------------
