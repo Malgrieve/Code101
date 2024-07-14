@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Education\\Education.csproj",
+      "projectUniqueName": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Programming\\Education\\Education.csproj",
       "projectName": "Education",
-      "projectPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Education\\Education.csproj",
+      "projectPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Programming\\Education\\Education.csproj",
       "packagesPath": "C:\\Users\\theof\\.nuget\\packages\\",
-      "outputPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Education\\obj\\",
+      "outputPath": "D:\\Blackstar Industries\\KODA Systems\\Projects\\Code101\\C#\\Programming\\Education\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\theof\\AppData\\Roaming\\NuGet\\NuGet.Config"
