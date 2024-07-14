@@ -5,6 +5,7 @@
 // Console.WriteLine("Hello, World!"); // Writes text to terminal
 
 // Drawing a shape
+/*
 Console.WriteLine("       /|");
 Console.WriteLine("      / |");
 Console.WriteLine("     /  |");
@@ -13,10 +14,28 @@ Console.WriteLine("   /    |");
 Console.WriteLine("  /     |");
 Console.WriteLine(" /      |");
 Console.WriteLine("/_______|");
+*/
 
-Console.ReadLine(); // Keep console window open until input
+// Console.ReadLine(); // Keep console window open until input
 
 // ----------------------------------------------------------------------- VARIABLES -------------------------------------------------------------------------
+
+string name = "Mal";
+
+int age;
+age = 21; 
+
+Console.WriteLine("There once was a man named " + name);
+Console.WriteLine("He was " + age + " years old");
+
+name = "Malgrieve";
+age = 22;
+
+Console.WriteLine("He really liked the name " + name);
+Console.WriteLine("But he liked being " + age);
+
+Console.ReadLine();
+
 // ----------------------------------------------------------------------- DATA TYPES ------------------------------------------------------------------------
 // ------------------------------------------------------------------------ STRINGS --------------------------------------------------------------------------
 // ------------------------------------------------------------------------ NUMBERS --------------------------------------------------------------------------

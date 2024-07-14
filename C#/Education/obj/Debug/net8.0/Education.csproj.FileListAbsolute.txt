@@ -1,0 +1,15 @@
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\bin\Debug\net8.0\Education.exe
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\bin\Debug\net8.0\Education.deps.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\bin\Debug\net8.0\Education.runtimeconfig.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\bin\Debug\net8.0\Education.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\bin\Debug\net8.0\Education.pdb
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.AssemblyInfoInputs.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.AssemblyInfo.cs
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.csproj.CoreCompileInputs.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.sourcelink.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\refint\Education.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.pdb
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\Education.genruntimeconfig.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Education\obj\Debug\net8.0\ref\Education.dll
