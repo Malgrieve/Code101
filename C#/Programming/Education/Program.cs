@@ -103,6 +103,9 @@ Console.WriteLine(Math.Sqrt(36)); // Square root
 Console.WriteLine(Math.Max(40, 28)); // Maximum number
 Console.WriteLine(Math.Min(200,302)); // Minimum number
 Console.WriteLine(Math.Round(4.929)); // Round the input number
+
+int num = Convert.ToInt32("400"); // Converts string to int
+Console.WriteLine(num + 30);
 */
 
 // ----------------------------------------------------------------------- USER INPUT ------------------------------------------------------------------------
