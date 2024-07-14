@@ -34,8 +34,6 @@ age = 22;
 
 Console.WriteLine("He really liked the name " + name);
 Console.WriteLine("But he liked being " + age);
-
-Console.ReadLine();
 */
 
 // ----------------------------------------------------------------------- DATA TYPES ------------------------------------------------------------------------
@@ -59,7 +57,28 @@ bool isHere = true;
 
 // ------------------------------------------------------------------------ STRINGS --------------------------------------------------------------------------
 
+/*
+Console.WriteLine("Malgrieve");
 
+Console.WriteLine("Blakstar\nIndustries"); // Prints on different Lines
+Console.WriteLine("Blackstar\" Industries");
+
+string phrase = "Blackstar Industries";
+string phrase1 = "Blackstar"; 
+string phrase2 = "Industries";
+Console.WriteLine(phrase1 + " " + phrase2);
+
+Console.WriteLine(phrase1.Length); // Characters in string
+Console.WriteLine(phrase2.ToUpper()); // Prints in all caps
+Console.WriteLine(phrase2.ToLower()); // Prints in all lowercase
+Console.WriteLine(phrase1.Contains(phrase2)); // bool if text contains other text
+
+Console.WriteLine(phrase2[0]); // Prints the character in the index position
+Console.WriteLine(phrase.IndexOf("Industries")); // Which index pos. does text begin in string (-1, if not there)
+
+Console.WriteLine(phrase.Substring(10)); // Grabs and prints out specific portion
+Console.WriteLine(phrase.Substring(10, 6)); // Grabs and prints out specific start, only picks up certain amount
+*/ 
 
 // ------------------------------------------------------------------------ NUMBERS --------------------------------------------------------------------------
 // ----------------------------------------------------------------------- USER INPUT ------------------------------------------------------------------------
