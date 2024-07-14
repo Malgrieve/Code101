@@ -78,7 +78,7 @@ Console.WriteLine(phrase.IndexOf("Industries")); // Which index pos. does text b
 
 Console.WriteLine(phrase.Substring(10)); // Grabs and prints out specific portion
 Console.WriteLine(phrase.Substring(10, 6)); // Grabs and prints out specific start, only picks up certain amount
-*/ 
+*/
 
 // ------------------------------------------------------------------------ NUMBERS --------------------------------------------------------------------------
 
@@ -110,6 +110,7 @@ Console.WriteLine(num + 30);
 
 // ----------------------------------------------------------------------- USER INPUT ------------------------------------------------------------------------
 
+/*
 Console.Write("What is your name? > "); // Input prompt
 string name = Console.ReadLine(); // Answer variable
 Console.Write("How old are you? > "); // Input prompt
@@ -117,9 +118,11 @@ string age = Console.ReadLine(); // Answer variable
 
 Console.WriteLine("Hello " + name + ". You are " + age); // Print it out 
 Console.ReadLine();
+*/
 
 // ------------------------------------------------------------------------ ARRAYS ---------------------------------------------------------------------------
 
+/*
 int[] luckyNumbers = { 7, 3, 4, 20, 33};
 string[] friends = new string[5];
 
@@ -131,8 +134,21 @@ luckyNumbers[2] = 50;
 Console.WriteLine(luckyNumbers[4]); // Specify index of element that is
 
 Console.ReadLine();
+*/
 
 // ------------------------------------------------------------------------ METHODS --------------------------------------------------------------------------
+
+Console.Write("What is your name? > ");
+string name = Console.ReadLine();
+
+SayHi(name);
+Console.ReadLine();
+
+static void SayHi(string user)
+{
+    Console.WriteLine("Hello " + user + "!");
+}
+
 // ------------------------------------------------------------------------ RETURN ---------------------------------------------------------------------------
 // -------------------------------------------------------------------------- IF -----------------------------------------------------------------------------
 // ------------------------------------------------------------------------ SWITCH ---------------------------------------------------------------------------
