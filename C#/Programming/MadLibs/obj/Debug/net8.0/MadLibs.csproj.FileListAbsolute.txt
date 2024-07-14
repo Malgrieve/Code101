@@ -1,0 +1,15 @@
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\bin\Debug\net8.0\MadLibs.exe
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\bin\Debug\net8.0\MadLibs.deps.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\bin\Debug\net8.0\MadLibs.runtimeconfig.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\bin\Debug\net8.0\MadLibs.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\bin\Debug\net8.0\MadLibs.pdb
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfoInputs.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.AssemblyInfo.cs
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.csproj.CoreCompileInputs.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.sourcelink.json
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\refint\MadLibs.dll
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.pdb
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\MadLibs.genruntimeconfig.cache
+D:\Blackstar Industries\KODA Systems\Projects\Code101\C#\Programming\MadLibs\obj\Debug\net8.0\ref\MadLibs.dll
