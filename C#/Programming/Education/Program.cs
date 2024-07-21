@@ -167,6 +167,42 @@ static int cube(int num)
 
 // -------------------------------------------------------------------------- IF -----------------------------------------------------------------------------
 
+/*
+bool isMale = false;
+bool isTall = true;
+
+if (isMale && isTall) 
+{
+    Console.WriteLine("He is a tall male");
+} else if (isMale && !isTall) 
+{
+    Console.WriteLine("You are male but not tall");
+} else if (!isMale && isTall) 
+{
+    Console.WriteLine("You are not male but are tall");
+} else 
+{
+    Console.WriteLine("She is not male or tall");
+}
+*/
+
+static int GetMax(int num1, int num2) 
+{
+    int result;
+
+    if (num1 > num2) 
+    {
+        result = num1;
+    } else 
+    {
+        result = num2;
+    }
+
+    return result;
+}
+
+Console.WriteLine(GetMax(2,10));
+Console.ReadLine();
 
 
 // ------------------------------------------------------------------------ SWITCH ---------------------------------------------------------------------------
